@@ -21,6 +21,7 @@ body {
     float: left;
     height: 5%;
     width: 5%;
+    background-color: white;
 }
 
 .color-choice {
@@ -38,4 +39,7 @@ body {
 }
 #green {
     color: green;
+}
+#purple {
+    color: purple;
 }
